@@ -1,0 +1,17 @@
+.right{
+float: right;
+margin: 0 0 1em 10em;
+}
+
+body {
+  margin: 10 300 0 300;
+  background-color: #ffffc0;
+}
+
+h1 {
+text-align: center;
+}
+h2 {
+color: blue;
+font-size: 20;
+}

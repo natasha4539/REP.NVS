@@ -1,0 +1,35 @@
+{
+	"movies": [{
+		"name": "Focus",
+		"year": 2015,
+		"genre": "comedy",
+		"country": "USA",
+		"watched": true
+		
+	}, {
+		"name": "Emma",
+		"year": 2020,
+		"genre": "comedy",
+		"country": "Great Britain",
+		"watched": true
+	}, {
+		"name": "Inception",
+		"year": 2010,
+		"genre": "fantastic",
+		"country": "USA",
+		"watched": true
+		
+	}, {"name": "The Penthouse",
+		"year": 2021,
+		"genre": "triller",
+		"country": "USA",
+		"watched": false
+	
+	
+	}, {"name": "Mindhunters",
+		"year": 2004,
+		"genre": "detective",
+		"country": "USA",
+		"watched": false
+	}]
+}

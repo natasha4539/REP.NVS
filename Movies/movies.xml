@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+	<movie>
+		<name>Focus</name>
+		<year>2015</year>
+		<genre>comedy</genre>
+	    <country>USA</country>
+	    <watched>true</watched>
+	</movie>
+	<movie>
+		<name>Emma</name>
+		<year>2020</year>
+		<genre>comedy</genre>
+	    <country>Great Britain</country>
+	    <watched>true</watched>
+	</movie>
+	<movie>
+		<name>Inceptiona</name>
+		<year>2010</year>
+		<genre>fantastic</genre>
+	    <country>USA</country>
+	    <watched>true</watched>
+	</movie>
+	<movie>
+        <name>The Penthouse</name>
+		<year>2021</year>
+		<genre>triller</genre>
+	    <country>USA</country>
+	    <watched>false</watched>
+	</movie>
+	<movie>
+	    <name>Mindhunters</name>
+		<year>2004</year>
+		<genre>detective</genre>
+	    <country>USA</country>
+	    <watched>false</watched>
+	</movie>
+</movies>
